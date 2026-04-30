@@ -409,6 +409,3 @@
 #         flavor = ice_cream.replace("ice cream", "").strip()
 #         print(f"Here's your very grown-up {flavor}...lunch.")
 
-# Git
-# install: winget install --id Git.Git -e --source winget
-
